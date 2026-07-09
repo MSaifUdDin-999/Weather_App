@@ -2,7 +2,13 @@
 
 A modern, fully responsive weather dashboard built with React.js and Vite. This application allows users to search for real-time weather conditions anywhere in the world, featuring dynamic animated icons, a clean glassmorphism UI, and highly accurate 5-day forecasting.
 
-**🔴 [View the Live Demo Here](https://your-netlify-link.netlify.app) 🔴**
+---
+
+## 🚀 Live Demo
+
+**🔴 https://global-forecast.vercel.app/**
+
+---
 
 ![Weather App Preview](./public/preview.png) 
 
@@ -10,7 +16,8 @@ A modern, fully responsive weather dashboard built with React.js and Vite. This 
 
 * **Real-Time Data:** Instant access to current temperatures, humidity, and wind speed.
 * **Advanced 5-Day Forecast:** Calculates true absolute minimum and maximum temperatures across 24-hour periods for accurate daily forecasting.
-* **Dynamic Visuals:** * Integrates `react-animated-weather` for smooth, moving icons (wind, rain, etc.).
+* **Dynamic Visuals:** 
+  * Integrates `react-animated-weather` for smooth, moving icons (wind, rain, etc.).
   * Automatically detects local daylight hours to display context-aware icons (e.g., hiding the moon during daytime forecasts).
 * **Glassmorphism UI:** A modern, frosted-glass aesthetic built with pure CSS and a mobile-first Flexbox architecture.
 * **Smart Search:** Pressing 'Enter' or clicking the search button instantly fetches updated data.
@@ -29,8 +36,8 @@ A modern, fully responsive weather dashboard built with React.js and Vite. This 
 To get this project running on your local machine, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/MSaifUdDin-999/Weather_App.git](https://github.com/MSaifUdDin-999/Weather_App.git)
+```bash
+git clone https://github.com/MSaifUdDin-999/Weather_App.git
 
 ```
 
@@ -69,9 +76,6 @@ npm run dev
 6. **View the app:**
 Open your browser and navigate to the `localhost` link provided in your terminal (usually `http://localhost:5173`).
 
-## 🌍 Live Demo
-
-Check out the live version of the application here: [Link to Live Demo] *(Note: Update this once you host it on Vercel or Netlify!)*
 
 ## 👨‍💻 Credits
 
@@ -90,5 +94,7 @@ Linkedin : **https://www.linkedin.com/in/muhammad-saif-ud-din-0b604840b/**
 GitHub : **https://github.com/MSaifUdDin-999**
 
 Email : **mrsaif1166@gmail.com**
+
+---
 
 *Developed with ❤️ by M SAIF UD DIN*
